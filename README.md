@@ -1,5 +1,5 @@
-# Math-functions-parser-with-drawer
-Lexer and parser for math functions and simulating drawing graphs
+# Math functions parser with drawer
+Lexer and parser for math functions and simulating drawing graphs in Pyhton
 
 Using Parser class:
 ```
